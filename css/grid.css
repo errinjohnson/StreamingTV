@@ -1,0 +1,55 @@
+@media only screen and (max-width: 500px) {
+    .grid-flex {
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+}
+
+.grid-flex,
+.grid-small,
+.grid-medium,
+.grid-large {
+    margin: 0 auto;
+    background-color: silver;
+    border: 1px solid black;
+}
+
+.grid-flex {
+    /*//padding and margin compensation 10%*/
+    width: 1000px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+
+.grid-small,
+grid-medium,
+grid-large {
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: space-around;
+    -ms-flex-line-pack: distribute;
+}
+
+.grid-small {
+    width: 22.5%;
+    background-color: yellow;
+}
+
+.grid-medium {
+    width: 30%;
+    background-color: pink;
+}
+
+grid-large {
+    width: 45%;
+    background-color: blue;
+}

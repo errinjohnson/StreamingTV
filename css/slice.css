@@ -1,0 +1,12 @@
+         form {
+           margin: 0 auto;
+           padding: 20px;
+           min-width: 125px;
+           min-height: 125px;
+           text-align: center;
+           background-color: blue;
+         }
+
+         button {
+           padding: 20px;
+         }

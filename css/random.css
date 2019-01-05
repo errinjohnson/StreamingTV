@@ -1,0 +1,17 @@
+body {
+  background-color: indianred;
+}
+
+.test2 {
+  color: bisque;
+}
+
+.test1 {
+  color: blue;
+}
+
+@media (max-width: 500px) {
+  #profile {
+    display: none;
+  }
+}

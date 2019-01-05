@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    }
+li {
+
+    list-style: none;
+}
+
+body {
+     margin: 0 auto;
+     background-color: teal;
+ }
+
+ section {
+     margin: 0 auto;
+ }
+iframe, #viewer {
+    width: 100%;
+    height: 100%;
+     }
+#profile-photo {
+     margin: 10% auto;
+     text-align: center;
+     width: 100%;
+     height: auto;
+     padding-bottom: 10%;
+     padding-top: 10%;
+ }
+nav {
+    margin: 0 auto;
+    width: 100%;
+}
+#logo {
+
+    margin: 1% auto;
+    border-radius: 25%;
+    width:  10%;
+    float: right;
+}
+#icon {
+    width: 100%;
+    height: 100%;
+
+
+}

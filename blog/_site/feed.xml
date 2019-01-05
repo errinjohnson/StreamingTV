@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Developer Blog</title>
+    <description>My software development skills measured in a blog with updated events.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Nov 2016 15:30:47 -0500</pubDate>
+    <lastBuildDate>Sun, 06 Nov 2016 15:30:47 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>Camp Sass</title>
+        <description>&lt;p&gt;Camp Sass is a one-day, one-track Sass conference held in Atlanta, GA. It’s hosted by Hampton Catlin, the inventor of Sass!&lt;/p&gt;
+
+&lt;p&gt;At this year’s conference, I had lots of fun, learned a ton, and met many talented web designers and developers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Apr 2015 05:45:36 -0400</pubDate>
+        <link>http://localhost:4000/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome-to-jekyll</guid>
+        
+        
+        <category>Software Development</category>
+        
+      </item>
+    
+      <item>
+        <title>SassConf</title>
+        <description>&lt;p&gt;SassConf is an awesome conference for front-end developers and designers who love Sass and are passionate about building a better, more beautiful web.&lt;/p&gt;
+
+&lt;p&gt;This year, the conference is in Austin, Texas!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/sass-conf</link>
+        <guid isPermaLink="true">http://localhost:4000/sass-conf</guid>
+        
+        
+        <category>Software Development</category>
+        
+      </item>
+    
+      <item>
+        <title>CSS Summit</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://environmentsforhumans.com/2015/css-summit/&quot;&gt;CSS Summit&lt;/a&gt; brings together some of the web’s most notable experts for an all-new, three-day online conference. This year’s event includes a live CSS and Sass conference, as well as an SVG, Sass, and advanced CSS track.&lt;/p&gt;
+
+&lt;p&gt;I’m also speaking about Sass on day two!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/css-summit</link>
+        <guid isPermaLink="true">http://localhost:4000/css-summit</guid>
+        
+        
+        <category>Software Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Front-end Design Conf</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://frontenddesignconference.com/&quot;&gt;Front-End Design Conference&lt;/a&gt; is an awesome conference for web professionals who love their community, the web, and learning. It’s a 2-day conference held every year in St. Petersburg, Fl.  This year’s list of speakers is impressive. Some of them are Chris Coyier, James White, Sophie Shepherd, and more!&lt;/p&gt;
+
+&lt;p&gt;The day before the main conference, they’re also running several full-day workshops on web animation, SMACSS, and frontend tooling.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/front-end-conf</link>
+        <guid isPermaLink="true">http://localhost:4000/front-end-conf</guid>
+        
+        
+        <category>Software Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Converge assembles some of the best speakers in the industry to inform and inspire you! It’s for the love of the web and the love of our community. This year’s event includes a full schedule of keynotes, sessions, and workshops.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://convergese.com/&quot;&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/converge</link>
+        <guid isPermaLink="true">http://localhost:4000/converge</guid>
+        
+        
+        <category>Software Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+* {
+    font-family: Trirong,sans-serif;
+}
+body {
+    background-color: grey;
+}
+.img {
+    width: 40%;
+    margin: 0 auto;
+    opacity: 1;
+ }
+header {
+    background-color:aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.8;
+}
+input, caption,label{
+    display: block;
+    margin: 0 auto;
+}

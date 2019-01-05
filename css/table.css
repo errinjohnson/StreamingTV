@@ -1,0 +1,81 @@
+body {
+   font-family: 'Swanky and Moo Moo' , sans-serif; /*note: font-family did not scope to button*/
+   color: #000000;
+   font-weight: 700;
+  /*background: url("../img/oldpaper.png") no-repeat center;*/
+   background-color: #21E0A4;
+}
+
+button {
+   padding: 2px;
+   border-radius: 2px ;
+   font-size: 2.8vw;
+   color: #29BA5E;
+   display: block;
+   font-family:'Swanky and Moo Moo' ; /*note: font-family did not scope to button*/
+}
+
+
+.wrapper {
+   max-width: 100%;
+}
+
+caption {
+   padding-bottom: 10px;
+   max-width: 100%;
+   font-size: 3.9vw;
+}
+table {
+   margin:  0 auto;
+}
+
+th, td {
+   border-radius: 10px 0;
+   padding: 5px;
+   border: thin solid black;
+   font-size: 2.8vw;
+}
+td {
+   background-color: #42E362;
+}
+th {
+   background-color: #29BA5E;
+}
+/* media query added h1, h2 and adjusted button for desktop and tablet */
+
+@media (min-width: 320px){
+         img {
+            border-radius: 20%;
+            width: 10%;
+            height:20%;
+            float: right;
+         }
+
+         h1.love {
+            width: 30%;
+            margin: 0 auto;
+            text-align: center;
+            font-size: 2.8vw;
+            }
+         button {
+            width: 10%;
+            text-align: center;
+            border-radius: 5px;
+            background-color: beige;
+            }
+         h1.more-love, h2.more-love {
+            width: 49%;
+            margin: 0 auto;
+            display: inline-block;
+            text-align: center;
+            font-size: 2.8vw;
+                     }
+ }
+
+/**media query display none for added h1, h2 and img - portrait view*/
+@media (max-width: 320px) {
+         h1.more-love, h2.more-love, h1.love, img{
+         display: none;
+
+         }
+}

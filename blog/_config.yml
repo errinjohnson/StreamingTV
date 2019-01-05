@@ -1,0 +1,35 @@
+# Site settings
+title: Software Developer Blog
+email: errin.johnson@gmail.com
+description: My software development skills measured in a blog with updated events.
+#baseurl: "/blog"
+url: "alchemymomentum.com/blog" # the base hostname & protocol for your site
+#twitter_username: errinjohnson64
+paginate: 3
+gems: [jekyll-paginate]
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+#Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author: Errin Johnson
+      layout: "post"
+      category: Software Development
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+
+
+
+
